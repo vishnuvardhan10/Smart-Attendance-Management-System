@@ -10,3 +10,5 @@
 # For the Frontend
 * Add the server IP Address in the main.dart file.
 * Run the flutter main.dart file after initialising the Emulator.
+# Smart-Attendance-Management-System
+# Smart-Attendance-Management-System

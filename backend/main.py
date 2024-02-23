@@ -117,9 +117,9 @@ def upload_image():
     # It is used to extract the names of the people that is given as input
 
     def send_email(content):
-        email_sender =  'boyapallib@gmail.com'
-        email_password = 'keya amyk jblf tyez'
-        email_receiver = 'boyapallib@gmail.com'
+        email_sender =  'kommalavishnu@gmail.com'
+        email_password = 'indrajith'
+        email_receiver = 'kommalavishnu@gmail.com'
 
         # Set the subject and body of the email
         body = content
